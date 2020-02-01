@@ -11,9 +11,9 @@
     <modules>
         <module>gatheringinformation-dal</module>
         <module>gatheringinformation-api</module>
-        <module>../gatheringinformation-service</module>
-        <module>../gatheringinformation-common</module>
-        <module>gatheringinformation-controller</module>
+        <module>gatheringinformation-service</module>
+        <module>gatheringinformation-common</module>
+        <module>gatheringinformation-web</module>
     </modules>
 
 
